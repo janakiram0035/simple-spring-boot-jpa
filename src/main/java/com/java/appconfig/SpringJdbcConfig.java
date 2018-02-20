@@ -12,6 +12,7 @@ public class SpringJdbcConfig
 	public static void main(String[] args) 
 	
 	{
+		System.out.println("Hello spring boot ");
 		SpringApplication.run(SpringJdbcConfig.class, args);
 
 	}
